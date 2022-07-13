@@ -1,0 +1,680 @@
+body {
+    margin: 0px;
+    background-color: whitesmoke;
+    width: 1260px;
+}
+
+
+/* */
+.home_o {
+    display: inline-block;
+    padding: .10px;
+
+
+}
+
+.home {
+    color: black;
+    height: 50px;
+    width: 1280px;
+    font-size: 20px;
+    padding: 30px;
+    float: right;
+
+}
+
+.hm_v {
+    float: left;
+    font-family: 'Ribbon 131 Bd BJ';
+    font-size: 40px;
+    font-style: italic bold;
+    padding-right: 30px;
+
+}
+
+.home a {
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    float: right;
+
+}
+
+.home a:active {
+
+    color: blue;
+}
+
+.hm_h {
+    padding: 10px;
+    min-width: 100px;
+    margin: 10px;
+    float: left;
+    font-style: underline;
+    padding-left: 30px;
+}
+
+.hm_r {
+    padding: 10px;
+    min-width: 100px;
+    margin: 10px;
+    float: left;
+
+}
+
+.hm_l {
+    min-width: 100px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+
+}
+
+.hm_a {
+    min-width: 100px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+.hm_c {
+    min-width: 100px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+.but_1 {
+    float: right;
+    min-width: 100px;
+    text-align: center;
+    padding: 10px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 20px;
+
+
+}
+
+.but_1 a {
+    text-align: center;
+    color: white;
+}
+
+
+
+/* Helping*/
+.Help_al {
+    display: inline-block;
+    max-width: 1200px;
+    height: 600px;
+}
+
+.helping_1 {
+    margin: 20px;
+    height: 300px;
+    width: 500px;
+    float: left;
+    text-align: left;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.helping_1 h1 {
+    text-align: left;
+    font-size: 3em;
+    width: 500px;
+}
+
+.helping_1 p {
+    font-size: 2em;
+    width: 450px;
+}
+
+/*
+.crt_p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: none;
+}
+*/
+
+.House_Img {
+    float: right;
+    max-width: 700px;
+
+}
+
+.House_Img img {
+    margin: 20px;
+    width: 550px;
+    height: 400px;
+    float: right;
+}
+
+.but_2 {
+    background-color: blue;
+    color: white;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+.video {
+    width: 400px
+}
+
+.video_ico {
+    padding: 10px;
+    font-size: 3em;
+    border-radius: 75%;
+    margin: 20px;
+    background-color: blue;
+    color: white;
+}
+
+/**/
+.search {
+    height: 100px;
+    max-width: 900px;
+    padding: 10px;
+    margin: auto;
+    font-size: 1.5em;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.loc {
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.search_loc {
+    display: inline-block bottom;
+    padding: 0px;
+    color: lightgrey;
+    min-width: 100px;
+    font-size: 30px;
+    margin: 0px;
+
+}
+
+.loc img {
+    height: 20px;
+    background-color: white;
+}
+
+.prot {
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.type {
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.max {
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.prices {
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.search .but_3 {
+    background-color: blue;
+    color: white;
+    font-size: 2em;
+    height: 60px;
+    min-width: 200px;
+    margin-right: 20px;
+    border-radius: 20px;
+    float: right;
+
+}
+
+.search .but_3 img {
+    float: left;
+    height: 40px;
+    padding: 5px;
+    fill: white;
+    ;
+}
+
+/* */
+
+
+
+
+
+/* footer*/
+
+
+a {
+    color: white;
+    font-size: 1.5em;
+}
+
+.choose img_2 {
+    height: 350px;
+    width: 350px;
+}
+
+
+
+
+
+h1,
+h2 {
+    color: blue;
+}
+
+
+
+.products {
+    min-width: 100px;
+    text-align: center;
+    height: 900px;
+    padding: 20px;
+    margin: 20px;
+    color: darkslateblue;
+}
+
+.products h1 {
+    color: blue;
+    text-align: left;
+}
+
+.products .prd_in {
+    font-size: 2em;
+
+}
+
+.prd_in h1 {
+    font-size: 2em;
+    color: darkslateblue;
+}
+
+.items {
+    margin: auto;
+    width: 1000px;
+    height: 300px;
+    display: inline-block;
+    color: darkslateblue;
+
+}
+
+.items h2 {
+    color: grey;
+}
+
+.location {
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    padding: 20px;
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    margin: 40px;
+
+}
+
+.loc_pin {
+    height: 60px;
+    width: 40px;
+    position: relative;
+}
+
+.payment {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+#smart {
+
+    height: 120px;
+    width: 100px;
+    margin-top: 40px;
+}
+
+.official {
+    background-color: white;
+    float: right;
+    padding: 20px;
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-right: 40px;
+
+}
+
+.secure {
+    height: 100px;
+    width: 100px;
+}
+
+/* Choose*/
+
+.choose {
+    height: 600px;
+
+}
+
+.choose_1 {
+    float: left;
+    min-width: 40px;
+    height: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    padding: 50px;
+
+}
+
+.choose_1 img {
+    height: 500px;
+    width: 600px;
+}
+
+.choose_2 {
+    float: right;
+    text-align: center;
+
+    margin-right: 5px;
+    font-size: 20px;
+    width: 500px;
+    height: 200px;
+}
+
+.choose_2 p {
+    padding: 10px;
+    width: 100%;
+}
+
+.sidel {
+    text-align: left;
+    float: left;
+    width: 200px;
+
+}
+
+.sider {
+
+    text-align: left;
+    float: right;
+
+}
+
+
+
+/*properties*/
+.properties {
+    height: 600px;
+    width: 1200px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+figcaption {
+
+    font-size: 2em;
+}
+
+figcaption p {
+    font-size: 16px;
+    text-align: left;
+}
+
+.properties_main {
+    text-align: justify;
+    height: 1000px;
+    width: 1260px;
+}
+
+.main {
+    font-size: 2em;
+    margin: auto;
+    text-align: center;
+    width: 760px;
+    padding: 20px;
+
+}
+
+.Images {
+    display: inline-block;
+    width: 1100px;
+    height: 300px;
+
+}
+
+.Images img {
+    height: 200px;
+    width: 350px;
+
+}
+
+.prts {
+    width: 10px;
+}
+
+.prts__pal1 {
+    float: left;
+    height: 600px;
+    width: 300px;
+    padding: 10px;
+
+}
+
+.prts_pal1 img {
+    height: 500px;
+    width: 300px;
+}
+
+
+.ptrs_ror2 {
+    margin: auto;
+    height: 400px;
+    width: 300px;
+
+}
+
+.prts_rex3 {
+    float: right;
+    height: 400px;
+    width: 300px;
+    margin-left: 30px;
+
+
+}
+
+.but_4 {
+    float: right;
+    height: 30px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+/* Customers*/
+.customers {
+
+    margin: 10px;
+    height: 500px;
+    width: 1000px;
+}
+
+.customers_main {
+
+    height: 500px;
+    width: 1000px;
+    padding: 20px;
+
+}
+
+.custo_in {
+    font-size: 1em;
+    text-align: center;
+}
+
+
+
+.cust_1 {
+    height: 300px;
+    width: 250px;
+    text-align: left;
+    padding: 20px;
+    
+    float: right;
+    background-color: white;
+
+
+
+}
+
+.cust_2 {
+
+    height: 300px;
+    width: 250px;
+    text-align: left;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+
+
+}
+
+.cust_3 {
+    height: 300px;
+    width: 250px;
+    margin-left: 30px;
+    float: left;
+    padding: 20px;
+    text-align: left;
+    background-color: white;
+
+}
+
+.but_5 {
+    color: white;
+    font-size: 30px;
+    background-color: blue;
+    border-radius: 10px;
+    float: right;
+    margin-bottom: 30px;
+}
+
+/*Footer*/
+
+footer {
+    background-color: brown;
+    display: flex;
+}
+
+.footer {
+    background-color: #2549d3;   
+    position: absolute; 
+    display: flex;
+    padding-right: 100px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial Verdana;
+    width: 100%;
+    height: 700px;
+    left:0;
+    right:0;
+}
+
+
+.ft_val_1 {
+    padding: 10px;
+    margin: 20px;
+    height: 400px;
+}
+
+
+.vallie {
+
+    width: 25%;
+    height: 200px;
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    font-family:"Oleo Script";
+    float: left;
+
+}
+
+.vallie h3 {
+    font-size: 1em;
+    font-family: 'Space Grotesk', 'Oleo Script';
+}
+
+
+.ft_prt_2 {
+    padding: 30px;
+    float: left;
+    margin: 10px;
+    width: 25%;
+    font-size: 30px;
+
+
+}
+
+.ft_prt_2 h4 {
+    font-size: 50px;
+    font-style: bold;
+}
+
+
+.ft_abt_3 {
+    float: left;
+    margin: 10px;
+    width: 25%;
+    padding: 30px;
+    font-size: 30px;
+
+}
+
+.ft_abt_3 h4 {
+    font-size: 50px;
+    font-style: bold;
+}
+
+
+.ft_res_4 {
+    float: right;
+    padding: 30px;
+    margin: 10px;
+    font-size: 30px;
+    width: 25%;
+}
+
+.ft_res_4 h4 {
+    font-size: 50px;
+    font-style: bold;
+}
