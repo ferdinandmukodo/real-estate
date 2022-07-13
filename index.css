@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     background-color: whitesmoke;
-    width: 1200px;
+    width: 1280px;
 }
 
 
@@ -16,7 +16,7 @@ body {
 .home {
     color: black;
     height: 50px;
-    width: 1200px;
+    width: 1280px;
     font-size: 20px;
     padding: 30px;
     float: right;
